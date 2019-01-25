@@ -1,0 +1,9 @@
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\bin\Debug\netcoreapp2.1\Services.Abstract.deps.json
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\bin\Debug\netcoreapp2.1\Services.Abstract.dll
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\bin\Debug\netcoreapp2.1\Services.Abstract.pdb
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.csprojAssemblyReference.cache
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.AssemblyInfoInputs.cache
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.AssemblyInfo.cs
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.dll
+C:\Users\1\Source\Repos\MessageSender\Services.Abstract\obj\Debug\netcoreapp2.1\Services.Abstract.pdb

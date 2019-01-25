@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="2.1.2" />
+    <PackageReference Include="Twilio" Version="5.25.1" />
+    <PackageReference Include="Twilio.AspNet.Core" Version="5.20.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+    <ProjectReference Include="..\Services.Abstract\Services.Abstract.csproj" />
+  </ItemGroup>
+
+</Project>

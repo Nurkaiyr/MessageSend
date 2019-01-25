@@ -1,0 +1,9 @@
+C:\Users\1\Source\Repos\MessageSender\DTO\bin\Debug\netcoreapp2.1\DTO.deps.json
+C:\Users\1\Source\Repos\MessageSender\DTO\bin\Debug\netcoreapp2.1\DTO.dll
+C:\Users\1\Source\Repos\MessageSender\DTO\bin\Debug\netcoreapp2.1\DTO.pdb
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.csprojAssemblyReference.cache
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfoInputs.cache
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.AssemblyInfo.cs
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.dll
+C:\Users\1\Source\Repos\MessageSender\DTO\obj\Debug\netcoreapp2.1\DTO.pdb
